@@ -1,0 +1,126 @@
+.background {
+  viewport-fill: black;
+}
+
+#countryName {
+  font-size: 20;
+  font-family: System-Bold;
+  text-anchor: middle;
+  x: 50%;
+  y: 25;
+  fill: white;
+}
+
+#batteryImage {
+  fill: white;
+  x: 100%-30;
+  y: 5;
+}
+
+#batteryFill {
+  fill: white;
+  x: 100%-30;
+  y: 10;
+  width: 17;
+  height: 10;
+}
+
+#batteryLevel {
+  font-size: 15;
+  font-family: System-Bold;
+  text-length: 6;
+  fill: white;
+  x: 100%-70;
+  y: 20;
+}
+
+#flagImage {
+  x: 50%-50;
+  y: 25;
+  width: 100;
+  height: 100;
+}
+
+#time {
+  font-size: 40;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+20;
+  fill: white;
+}
+
+#date {
+  font-size: 20;
+  font-family: System-Regular;
+  text-anchor: middle;
+  text-length: 32;
+  x: 50%;
+  y: 50%+45;
+  fill: yellow;
+}
+
+#divider {
+  fill: cyan;
+}
+
+#heartRate {
+  fill: fb-lime;
+  x: 30;
+  y: 75%;
+}
+
+#heartRateValue {
+  font-size: 18;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: fb-lime;
+  x: 60;
+  y: 75%+15;
+}
+
+#stepCount {
+  fill: fb-lime;
+  x: 50%+20;
+  y: 75%;
+}
+
+#stepCountValue {
+  font-size: 18;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: fb-lime;
+  x: 75%-25;
+  y: 75%+15;
+}
+
+#calorieCount {
+  fill: fb-lime;
+  x: 30;
+  y: 75%+30;
+}
+
+#calorieCountValue {
+  font-size: 18;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: fb-lime;
+  x: 60;
+  y: 75%+46;
+}
+
+#distanceCount {
+  fill: fb-lime;
+  x: 50%+20;
+  y: 75%+30;
+}
+
+#distanceCountValue {
+  font-size: 18;
+  font-family: System-Bold;
+  text-length: 32;
+  fill: fb-lime;
+  x: 75%-25;
+  y: 75%+46;
+}

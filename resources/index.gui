@@ -1,0 +1,21 @@
+<svg class="background">
+  <image href="background.png"/>
+  <text id="countryName">Australia</text>
+  <g>
+    <image id="batteryImage" href="icons/battery.png" width="20" height="20"/>
+    <rect id="batteryFill"/>
+  </g>
+  <text id="batteryLevel">88%</text>
+  <image id="flagImage" href="australia.png"/>
+  <text id="time"/>
+  <text id="date"/>
+  <line id="divider" x1="10" y1="75%-10" x2="100%-10" y2="75%-10"/>
+  <image id="heartRate" href="icons/heartrate.png" width="20" height="20"/>
+  <text id="heartRateValue"/>
+  <image id="stepCount" href="icons/stepcount.png" width="20" height="20"/>
+  <text id="stepCountValue"/>
+  <image id="calorieCount" href="icons/calories.png" width="20" height="20"/>
+  <text id="calorieCountValue"/>
+  <image id="distanceCount" href="icons/distance.png" width="20" height="20"/>
+  <text id="distanceCountValue"/>
+</svg>
